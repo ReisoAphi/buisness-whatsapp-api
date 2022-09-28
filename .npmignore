@@ -1,0 +1,8 @@
+.github/
+
+docs/
+
+.firebaserc
+firebase.json
+
+test.js
